@@ -20,6 +20,5 @@ This program allows the user to:
 - **Simple and clean interface**  
 - **No external libraries required**  
 - **Instant output in three units**  
-- **Beginner‑friendly code structure**
 
 
