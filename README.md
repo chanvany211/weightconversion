@@ -1,7 +1,5 @@
 # Weight Conversion
 
-#  Weight Converter (Python Tkinter)
-
 A simple GUI application that converts a weight in **kilograms (kg)** into **grams**, **pounds**, and **ounces**.  
 Built using Python’s `tkinter` module, this app demonstrates basic GUI layout, input handling, and real‑time unit conversion.
 
